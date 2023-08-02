@@ -4,11 +4,10 @@ Hi 👋 My name is Dagmar Lewis
 Full Stack Web Developer
 ------------------------
 
-Hi, I am Dagmar Lewis a Full stack developer that loves to build feature-rich and user friendly applications I have a passion for technology and learning new things.
+Hi, I am Dagmar Lewis a Full stack developer that loves to build feature-rich and user-friendly applications I have a passion for technology and learning new things.
 
 * 🖥️  See my portfolio at [dagmar.dev](http://dagmar.dev)
 * ✉️  You can contact me at [dagmarlewis@dagmar.dev](mailto:dagmarlewis@dagmar.dev)
-* 🧠  I'm learning React
 * ⚡  I live in the dark
 
 <a href="https://www.twitter.com/dagmar_dev" target="_blank" rel="noreferrer"><img
